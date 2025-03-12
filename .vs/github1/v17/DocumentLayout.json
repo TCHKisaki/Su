@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\MR. VUONG\\source\\repos\\github1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8FD775FE-EADE-4358-B0D9-4EFD2B475EA3}|github1\\github1.csproj|c:\\users\\mr. vuong\\source\\repos\\github1\\github1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FD775FE-EADE-4358-B0D9-4EFD2B475EA3}|github1\\github1.csproj|solutionrelative:github1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8FD775FE-EADE-4358-B0D9-4EFD2B475EA3}|github1\\github1.csproj|c:\\users\\mr. vuong\\source\\repos\\github1\\github1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8FD775FE-EADE-4358-B0D9-4EFD2B475EA3}|github1\\github1.csproj|solutionrelative:github1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR. VUONG\\source\\repos\\github1\\github1\\Form2.cs",
+              "RelativeDocumentMoniker": "github1\\Form2.cs",
+              "ToolTip": "C:\\Users\\MR. VUONG\\source\\repos\\github1\\github1\\Form2.cs [Design]",
+              "RelativeToolTip": "github1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:52:48.907Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MR. VUONG\\source\\repos\\github1\\github1\\Form1.cs",
               "RelativeDocumentMoniker": "github1\\Form1.cs",
